@@ -22,7 +22,6 @@ The Hospital Appointments plugin allows hospitals and medical practices to manag
    - Doctor assigned
    - Appointment date and time
    - Status management (Pending, Confirmed, Completed, Cancelled)
-   - Delete appointments
 
 2. Manage Doctors
    - Add/Edit/Delete doctors
@@ -64,7 +63,6 @@ Add the booking form to any page using the shortcode:
 2. Navigate to "Hospital Appointments" → "View Appointments"
 3. View all appointments
 4. Change appointment status using the dropdown
-5. Delete appointments as needed
 
 ## Requirements
 
